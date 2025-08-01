@@ -8,15 +8,27 @@ Tenho experiência sólida em projetos voltados para **frotas, sinalização vi�
 
 ---
 
-### 💻 Tech Stack
+🚀 Tech Stack
+📊 Dados & Business Intelligence
+Power BI | SQL | BigQuery
+DAX | Pandas | NumPy
 
-- **Dados & BI**: Power BI | SQL | BigQuery | Pandas | NumPy | DAX  
-- **Automação**: Selenium | Python Scripts | APIs | Web Scraping  
-- **Cloud**: Google Cloud | AWS (básico)  
-- **Outros**: Git | GitHub | Excel Avançado | HTML e JS (básico)  
-- **Interesses atuais**: RFID + Geolocalização | IA | CyberSecurity
+🤖 Automação & Integração
+Python (Selenium, Scripts, Web Scraping, APIs)
+Automação de processos e ETL
 
----
+💻 Desenvolvimento & Frameworks
+C# | .NET | Blazor
+NestJS | React (Refine Framework) | TypeScript
+HTML & JavaScript 
+
+☁️ Cloud & Infraestrutura
+Google Cloud Platform (GCP)
+AWS (básico)
+
+🛠 Ferramentas & Outros
+Git & GitHub | Excel Avançado
+Arquitetura e desenvolvimento de aplicações full stack
 
 ### 🎯 Objetivos
 
