@@ -46,7 +46,7 @@ Tenho experiência sólida em projetos voltados para **frotas, sinalização vi�
 
 - 👨‍🏫 Ministro oficinas de tecnologia para jovens e mulheres em projetos sociais  
 - ⚙️ Criei soluções internas para controle de placas de sinalização com **RFID + GPS**  
-- 🎓 Estudando **Logística** e buscando aplicar dados para **redução de custos e aumento de performance operacional**  
+- 🎓 Estudando **Ciência de Dados** e buscando aplicar dados para **redução de custos e aumento de performance operacional**  
 - 🎲 Desenvolvi bots de WhatsApp para verificação de bilhetes de sorteios com integração a APIs  
 
 ---
