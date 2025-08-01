@@ -32,6 +32,8 @@ Tenho experiência sólida em projetos voltados para **frotas, sinalização vi�
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefMoreira&layout=compact&hide_border=true&title_color=00CED1&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=JefMoreira&theme=onedark-duo&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)
+
 ---
 
 ### 🌐 Conecte-se comigo
