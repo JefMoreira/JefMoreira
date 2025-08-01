@@ -30,6 +30,7 @@ Tenho experiência sólida em projetos voltados para **frotas, sinalização vi�
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JefMoreira&show_icons=true&count_private=true&hide_border=true&title_color=00CED1&icon_color=20B2AA&text_color=FFFFFF&bg_color=0d1117"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefMoreira&layout=compact&hide_border=true&title_color=00CED1&text_color=FFFFFF&bg_color=0d1117" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JefMoreira&theme=transparent&border_radius=10&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JefMoreira&theme=onedark-duo&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)
