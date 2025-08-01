@@ -33,8 +33,6 @@ Tenho experiência sólida em projetos voltados para **frotas, sinalização vi�
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JefMoreira&theme=transparent&border_radius=10&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JefMoreira&theme=onedark-duo&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)
-
 ---
 
 ### 🌐 Conecte-se comigo
