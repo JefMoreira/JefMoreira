@@ -9,6 +9,7 @@ Tenho experiência sólida em projetos voltados para **frotas, sinalização vi�
 ---
 
 🚀 Tech Stack
+
 📊 Dados & Business Intelligence
 Power BI | SQL | BigQuery
 DAX | Pandas | NumPy
